@@ -1,0 +1,19 @@
+#link-video a:link {
+  text-decoration: none;
+  color: black;
+}
+
+#link-video a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+#link-video a:hover {
+  text-decoration: none;
+  color: black;
+}
+
+#link-video a:active {
+  text-decoration: none;
+  color: black;
+}
