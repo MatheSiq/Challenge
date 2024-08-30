@@ -1,3 +1,11 @@
+body {
+  background-color: #EFE6DD;
+}
+
+.custom-navbar {
+  background-color: #231F20;
+}
+
 #link-video a:link {
   text-decoration: none;
   color: black;

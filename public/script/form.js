@@ -16,7 +16,7 @@ document.getElementById('supportForm').addEventListener('submit', function(event
             break;
     }
 
-    const mensagem = `O chamado foi analisado pela nossa inteligência artificial, e de acordo com a Severidade (${Severidade}) e o descritivo, o mesmo foi escalonado para um analista de Nível ${nivel}.`;
+    const mensagem = `O chamado foi analisado pela nossa inteligência artificial, e de acordo com a Severidade (${Severidade}) e o descritivo, o mesmo foi escalonado, com um título já atribuído, para um analista de Nível ${nivel}.`;
 
     document.getElementById('modalMessage').textContent = mensagem;
 
